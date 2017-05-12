@@ -1,0 +1,22 @@
+[  
+   {  
+      "remoteId":1,
+      "nameCardType":"CARD"
+   },
+   {  
+      "remoteId":2,
+      "nameCardType":"BANNER"
+   },
+   {  
+      "remoteId":3,
+      "nameCardType":"CARD_V2"
+   },
+   {  
+      "remoteId":4,
+      "nameCardType":"ICON_V1"
+   },
+   {  
+      "remoteId":5,
+      "nameCardType":"DETAIL_V1"
+   }
+]

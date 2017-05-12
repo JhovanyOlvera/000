@@ -1,0 +1,53 @@
+[  
+      {  
+         "BoardingName":"Danza",
+         "BoardDescription":"Es un lenguaje expresivo, que se vale de movimientos corporales cargados de emoción para expresar y comunicar, generalmente es acompañada de música. Los movimientos están guiados por una energía específica distinta en cada situacioón y llevan una musucalidad y ritmo que le da orden al movimiento.",
+         "BoardImage":"0B6xyiWpZ8iAFN2dSVFJld1JjVHM",
+         "BoardCircleColor":"#d71860",
+         "BoardingOrder":1
+      },
+      {  
+         "BoardingName":"Música",
+         "BoardDescription":"Se encuentra en el marco del desarrollo psicomotriz del niño, por lo tanto es determinante para elaborar cualquier planteamiento educativo musical, se enriquecen a partir del movimiento, desde la escucha activa a través del cuerpo, los juegos con posiciones, la construcción de instrumentos, etc.",
+         "BoardImage":"0B6xyiWpZ8iAFZDlaRU5DV25EbEE",
+         "BoardCircleColor":"#3848a8",
+         "BoardingOrder":2
+      },
+	{  
+         "BoardingName":"Ingles",
+         "BoardDescription":"Descripción",
+         "BoardImage":"0B6xyiWpZ8iAFTTdiRmpxWFhmRUU",
+         "BoardCircleColor":"#5e35b1",
+         "BoardingOrder":3
+      },
+	{  
+         "BoardingName":"Natación",
+         "BoardDescription":"Descripción",
+         "BoardImage":"0B6xyiWpZ8iAFalBFaE5mVnFVUXc",
+         "BoardCircleColor":"#61b4f5",
+         "BoardingOrder":4
+      },
+	{  
+         "BoardingName":"Formación Humana",
+         "BoardDescription":"Descripción",
+         "BoardImage":"0B6xyiWpZ8iAFclJIMmh1Q25yYmc",
+         "BoardCircleColor":"#ed6b03",
+         "BoardingOrder":5
+      }
+	,
+	{  
+         "BoardingName":"Valores Humanos",
+         "BoardDescription":"Descripción",
+         "BoardImage":"0B6xyiWpZ8iAFUHRPMUZJSHRqekE",
+         "BoardCircleColor":"#d71760",
+         "BoardingOrder":6
+      }
+	,
+	{  
+         "BoardingName":"Transporte",
+         "BoardDescription":"Descripción",
+         "BoardImage":"0B6xyiWpZ8iAFQnRpQWtXWmVGTVk",
+         "BoardCircleColor":"#ad0807",
+         "BoardingOrder":7
+      }
+   ]

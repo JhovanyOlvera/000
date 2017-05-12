@@ -1,0 +1,123 @@
+[  
+   {  
+      "remoteId":1,
+      "order":1,
+      "shortTitle":"Exámenes Bimestrales",
+      "title":"Examenes Bimestrales",
+      "image":"0B6xyiWpZ8iAFX3BvVUpUTkdRVDg",
+      "description":"Aplicación de examenes del 4to Bimenestre para primaria y secundaria.",
+      "remoteGroupId":1,
+      "remoteIdTypeCard":5,
+      "date":1
+   },
+   {  
+      "remoteId":2,
+      "order":2,
+      "shortTitle":"Viacrusis",
+      "title":"Representación de viacrusis",
+      "image":"------",
+      "description":"Representacion del Viacrucis a las 12:00 hrs, los alumnos saldran a la 01:30 p.m , formacion  humana cristiana para profesores",
+      "remoteGroupId":1,
+      "remoteIdTypeCard":5,
+      "date":1
+   },
+   {  
+      "remoteId":3,
+      "order":1,
+      "shortTitle":"Domingo de ramos",
+      "title":"Domingo de ramos",
+      "image":"------",
+      "description":"Asistamos a misa con la familia, a la celebracion de Domingo de Ramos",
+      "remoteGroupId":2,
+      "remoteIdTypeCard":5,
+      "date":2
+   },
+   {  
+      "remoteId":4,
+      "order":1,
+      "shortTitle":"Vacaciones",
+      "title":"Vacaciones de Semana Santa",
+      "image":"------",
+      "description":"Vacaciones de Semana Santa, tiempo de reflexionar para ser mejores personas.",
+      "remoteGroupId":3,
+      "remoteIdTypeCard":5,
+      "date":3
+   },
+   {  
+      "remoteId":5,
+      "order":1,
+      "shortTitle":"Colegiatura",
+      "title":"Pago de Colegiatura",
+      "image":"------",
+      "description":"Ultimo dia de pago de colegiatura con descuento del 3%",
+      "remoteGroupId":4,
+      "remoteIdTypeCard":5,
+      "date":4
+   },
+   {  
+      "remoteId":6,
+      "order":1,
+      "shortTitle":"Aviso Colegiatura",
+      "title":"Pago de Colegiatura",
+      "image":"",
+      "description":"Ultimos dias  de pago de colegiaruta sin recargos.",
+      "remoteGroupId":5,
+      "remoteIdTypeCard":5,
+      "date":5
+   },
+   {  
+      "remoteId":7,
+      "order":1,
+      "shortTitle":"Regreso a Clases",
+      "title":"Regreso a Clases",
+      "image":"",
+      "description":"Reanudacion de clases, sean bienvenidos a su colegio que los extra",
+      "remoteGroupId":6,
+      "remoteIdTypeCard":5,
+      "date":6
+   },
+   {  
+      "remoteId":8,
+      "order":1,
+      "shortTitle":"Actividades",
+      "title":"Escuela para Padres",
+      "image":"",
+      "description":"Escuela de padres a las 08:00 a.m y posteriormente entrega de calificaciones del 4to. Bimestre para primaria y secundaria",
+      "remoteGroupId":6,
+      "remoteIdTypeCard":5,
+      "date":6
+   },
+   {  
+      "remoteId":9,
+      "order":1,
+      "shortTitle":"Salida de estudio ",
+      "title":"Salida de estudio y recreacion",
+      "image":"",
+      "description":"Salida de estudio y recreacion para secundaria a la Casa de Madera.",
+      "remoteGroupId":6,
+      "remoteIdTypeCard":5,
+      "date":6
+   },
+   {  
+      "remoteId":10,
+      "order":1,
+      "shortTitle":"Salida de estudio ",
+      "title":"Salida de estudio y recreacion",
+      "image":"",
+      "description":"Salida de estudio y recreacion para secundaria a la Casa de Madera.",
+      "remoteGroupId":6,
+      "remoteIdTypeCard":5,
+      "date":6
+   },
+   {  
+      "remoteId":11,
+      "order":1,
+      "shortTitle":"Salida de estudio ",
+      "title":"Salida de estudio y recreacion",
+      "image":"",
+      "description":"Salida de estudio y recreacion para secundaria a la Casa de Madera.",
+      "remoteGroupId":6,
+      "remoteIdTypeCard":5,
+      "date":6
+   }
+]
